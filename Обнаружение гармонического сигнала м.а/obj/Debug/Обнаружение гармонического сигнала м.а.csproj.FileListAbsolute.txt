@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.exe
+c:\users\acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.pdb
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.exe
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.pdb
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение_гармонического_сигнала_м.а.Form1.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение_гармонического_сигнала_м.а.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.csproj.GenerateResource.Cache
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.exe.config
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.exe
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.pdb
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.exe
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\bin\Debug\Обнаружение гармонического сигнала м.а.pdb
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.csprojResolveAssemblyReference.cache
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение_гармонического_сигнала_м.а.Form1.resources
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение_гармонического_сигнала_м.а.Properties.Resources.resources
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\Обнаружение гармонического сигнала м.а\Обнаружение гармонического сигнала м.а\obj\Debug\Обнаружение гармонического сигнала м.а.csproj.GenerateResource.Cache
